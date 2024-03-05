@@ -2,6 +2,8 @@
 
 Security Onion, an incredible tool for threat hunting, network security monitoring, and log management. If you're serious about keeping your network safe and sound, this is one tool you definitely want in your arsenal.
 
+![influx-db dashboard](https://github.com/rasheedjimoh/securityonion/assets/157264080/6de84530-3914-4794-9bad-e528f77bcd52)
+
 **What is Security Onion?**
 
 Think of Security Onion as your digital watchdog. It's like having a team of cyber guardians constantly patrolling your network, sniffing out any suspicious activity, and alerting you to potential threats. Whether it's a sneaky hacker trying to breach your defenses or a piece of malware lurking in the shadows, Security Onion has got your back.
@@ -25,6 +27,8 @@ Think of Security Onion as your digital watchdog. It's like having a team of cyb
 ![sec-on](https://github.com/rasheedjimoh/securityonion/assets/157264080/6eb485d9-94eb-445c-9dda-a1cbe81a72ba)
 
 2. **Configuration:** Once installed, configure Security Onion to meet your specific security requirements. Customize alert thresholds, define detection rules, and fine-tune your monitoring settings to align with your organization's security policies.
+
+![so-status](https://github.com/rasheedjimoh/securityonion/assets/157264080/f14646d0-82fb-4a37-a10c-3312bb8199dd)
 
 3. **Integration:** Security Onion seamlessly integrates with other security tools and technologies, allowing you to create a comprehensive defense-in-depth strategy. Whether it's SIEM integration, threat intelligence feeds, or endpoint detection and response, Security Onion plays well with others.
 
