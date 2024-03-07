@@ -1,4 +1,4 @@
-# Security Onion IDS (Intrusion Detection System) / IPS (Intrusion Prevention System)
+# Security Onion SIEM (Security information and event management) / IDS (Intrusion Detection System) / IPS (Intrusion Prevention System)
 
 Security Onion, an incredible tool for threat hunting, network security monitoring, and log management. If you're serious about keeping your network safe and sound, this is one tool you definitely want in your arsenal.
 
